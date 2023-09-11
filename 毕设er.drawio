@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T03:22:06.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="R_32y2pbtj_zf4vLvxCO" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T03:23:05.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="7OAp-eKjd-3JubrKE6Y5" version="21.7.4" type="github">
   <diagram name="第 1 页" id="fztT0TS0Hl8Yx6Aiy8Um">
     <mxGraphModel dx="1467" dy="753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           <mxGeometry x="540.0033333333334" y="843.0033333333334" width="28" height="36" as="geometry" />
         </mxCell>
         <mxCell id="q-tWd1kV-UsqvNjvDz3S-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;观&lt;br&gt;看&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="529" y="546" width="80" height="151" as="geometry" />
+          <mxGeometry x="530" y="536" width="80" height="151" as="geometry" />
         </mxCell>
         <mxCell id="q-tWd1kV-UsqvNjvDz3S-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q-tWd1kV-UsqvNjvDz3S-19" target="q-tWd1kV-UsqvNjvDz3S-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -105,8 +105,8 @@
         <mxCell id="q-tWd1kV-UsqvNjvDz3S-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="566" y="702" width="33" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="q-tWd1kV-UsqvNjvDz3S-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;员管理园&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="836" y="622" width="60" height="120" as="geometry" />
+        <mxCell id="q-tWd1kV-UsqvNjvDz3S-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;管理员&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="898" y="582" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
